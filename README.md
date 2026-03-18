@@ -12,9 +12,9 @@
 ### `whoami`
 
 ```bash
-$ cat /etc/profile.d/goetia.sh
+$ cat /etc/profile.d/weber.sh
 
-NAME="GoetiaDEv"
+NAME="VerumWeber"
 ROLE="System Analyst & Developer"
 CURRENT_OP="SOC / NOC Specialist"
 LOCATION="Brazil 🇧🇷"
@@ -105,14 +105,14 @@ STATUS="Always learning. Always debugging."
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=GoetiaDEv&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoetiaDEv&theme=midnight-purple&hide_border=true&layout=compact" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=VerumWeber&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VerumWeber&theme=midnight-purple&hide_border=true&layout=compact" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GoetiaDEv&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VerumWeber&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -134,8 +134,6 @@ STATUS="Always learning. Always debugging."
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
 
 ---
-
-![Visitor Count](https://profile-counter.glitch.me/GoetiaDEv/count.svg)
 
 <br>
 
