@@ -93,7 +93,7 @@ STATUS="Always learning. Always debugging."
 ### 🎯 Current Missions
 
 ```
-[ACTIVE]   ████████████░░░░  Mastering AI Engineer & Cybersecurity Specialist for AI
+[ACTIVE]   ████████████░░░░  Mastering AI Engineering & Cybersecurity Specialist for AI
 [ACTIVE]   ██████████░░░░░░  Cloud Monitoring & Automation Engineering
 [ACTIVE]   ████████░░░░░░░░  Reverse Engineering & Malware Analysis
 [ACTIVE]   ██████░░░░░░░░░░  Building NOC/SOC Automation Tooling
@@ -122,7 +122,7 @@ STATUS="Always learning. Always debugging."
 
 | 🇧🇷 Português | 🇺🇸 English |
 |---|---|
-| Analista e Desenvolvedor de Sistemas atuando como Especialista em SOC/NOC. Apaixonado por cibersegurança, infraestrutura e automação. | System Analyst & Developer working as SOC/NOC Specialist. Passionate about cybersecurity, infrastructure monitoring, and software engineering. |
+| Fundador e Especialista em Cibersegurança para IA. Apaixonado por cibersegurança, infraestrutura e automação. | Founder and Cybersecurity Specialist for AI. Passionate about cybersecurity, infrastructure, and automation. |
 
 ---
 
