@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=GoetiaDEv&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=VerumWeber&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
 ### `whoami`
 
@@ -15,8 +15,8 @@
 $ cat /etc/profile.d/weber.sh
 
 NAME="VerumWeber"
-ROLE="System Analyst & Developer"
-CURRENT_OP="SOC / NOC Specialist"
+ROLE="Founder & Chief Technical Officer"
+CURRENT_OP="AI Engineer & Cybersecurity Specialist for AI"
 LOCATION="Brazil 🇧🇷"
 INTERESTS=(
   "Cybersecurity & Blue Team"
@@ -93,7 +93,7 @@ STATUS="Always learning. Always debugging."
 ### 🎯 Current Missions
 
 ```
-[ACTIVE]   ████████████░░░░  Mastering SOC Operations & Incident Response
+[ACTIVE]   ████████████░░░░  Mastering AI Engineer & Cybersecurity Specialist for AI
 [ACTIVE]   ██████████░░░░░░  Cloud Monitoring & Automation Engineering
 [ACTIVE]   ████████░░░░░░░░  Reverse Engineering & Malware Analysis
 [ACTIVE]   ██████░░░░░░░░░░  Building NOC/SOC Automation Tooling
