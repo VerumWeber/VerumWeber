@@ -112,8 +112,7 @@ STATUS="Always learning. Always debugging."
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VerumWeber&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=VerumWeber&theme=merko&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 ---
